@@ -1,5 +1,7 @@
 # vue-spring-chat
 
+![](https://i.imgur.com/SZWIJ6x.png)
+
 ## Project setup
 ```
 npm install
